@@ -1,0 +1,14 @@
+.logo img
+{
+	float: left;
+	width: 150px;
+	height: auto;
+}
+h1{
+	color: black;
+	top: 1%;
+}
+header
+{
+	background-color: lightblue;
+}
